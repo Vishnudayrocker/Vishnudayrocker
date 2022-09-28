@@ -6,7 +6,7 @@ s = ""
 while(num):
 	for r in d:
 		if r <= num:
-			s = s+(d[r])*(num/r)  
+			s = s+(d[r])*int(num/r)  
 			num = num % r 
 			break
 
