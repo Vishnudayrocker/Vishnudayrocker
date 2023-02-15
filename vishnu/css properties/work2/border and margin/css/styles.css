@@ -1,0 +1,29 @@
+h1,h2
+{
+    font-family: 'Roboto Mono', monospace;
+    color:black;
+    background-color: rgb(22, 239, 239);
+    text-align: center;
+}
+h3,h4,h5
+{
+    font-family: 'Times New Roman', Times, serif;
+    color:blue;
+    background-color: rgb(204, 246, 17);
+    text-align: center;
+    
+}
+p{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color: #000;background-color: red;font-size: 30px;}
+
+
+
+.k1{border: 20px outset rgb(249, 10, 10);margin: 50px;padding:10px}
+
+.k2{border-style: dotted;border-color: darkblue;margin:20px 40px;border-width: 8px;padding: 20px 40px;border-radius: 20px;}
+
+.k3{border-style: double;border-color: rgb(211, 211, 244);border-width: 20px;margin:20px 40px 60px 80px;padding:20px 40px 60px 80px;}
+
+.k4{border-style:inset;border-color: crimson;margin: 40px;border-width:20px;padding: 20px;}
+
+.k5{border-style: groove;border-color: rgb(6, 246, 94);margin: 40px;border-width:6px;padding: 40px;}
+

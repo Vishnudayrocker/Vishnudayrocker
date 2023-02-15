@@ -1,0 +1,12 @@
+h1,h2,h3{
+    font-family: 'Roboto Mono', monospace;
+    color: aqua;
+    background-color: azure;
+}
+.direct1 .main-h3{
+    background-color:green;
+}
+.main-h3.hdd,, h3.hdd{
+    font-size: 80px;
+}
+    

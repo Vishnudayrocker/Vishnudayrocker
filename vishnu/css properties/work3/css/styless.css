@@ -1,0 +1,92 @@
+h1
+{
+    font-family: 'Roboto Mono', monospace;
+    color:black;
+    background-color: rgb(22, 239, 239);
+    text-align: center;
+}
+
+h2,h3,h4,h5,h6
+{  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    font-size: 30px;
+
+}
+
+
+
+
+
+
+.k1{border: 8px outset rgb(17, 16, 16);margin: 50px;padding:10px}
+
+.r1,.r2,.r3,.r4,.r5{color: #000;font-size: 20px;}
+
+.k3
+{
+    position: absolute;
+    top:150px;
+    left:700px;
+    width: 400px;
+    bottom: 20px;
+
+}
+.k4
+{
+    position: absolute;
+    top:150px;
+    left:1400px;
+    width: 400px;
+    bottom: 20px;
+    right: 100px;
+
+}
+.r2
+{
+    position: absolute;
+    top:210px;
+    left:700px;
+    width: 400px;
+    bottom: 80px;
+    
+}
+.r3
+{
+    position: absolute;
+    top:210px;
+    left:1400px;
+    width: 400px;
+    bottom: 20px;
+    right: 100px;
+
+}
+.k5
+{
+    position: absolute;
+    top:300px;
+    left: 300px;
+    
+
+}
+.r4
+{
+    position: absolute;
+    top:380px;
+    left:300px;
+    
+
+}
+.k6
+{
+    position: absolute;
+    top:280px;
+    left: 1100px;
+} 
+.r5
+{
+    position: absolute;
+    top:380px;
+    left:1100px;
+}   
+

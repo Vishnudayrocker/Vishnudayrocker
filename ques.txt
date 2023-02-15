@@ -1,0 +1,7 @@
+There is a queue for cash withdrawal at the ATM room. Your task is to write a function to calculate the total time required for all the customers to withdraw cash !
+1,Customers an array of positive integers representing the queue. Each integer represents a customer, and its value is the amount of time the require to withdraw cash.
+2,n: a positive integer, the number of ATM machines inside the room.
+
+
+[[1,2,3,4]1]=10
+[[2,4,7]2]=7
