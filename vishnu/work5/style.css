@@ -1,0 +1,41 @@
+h1{
+    font-family: 'Roboto Mono', monospace;
+    color:white;
+    background-color: red;
+    
+}
+.k1{
+    border-style: none;border-color:gray;
+}
+h2{
+    font-family: 'Roboto Mono', monospace;
+    color:violet;
+    
+    
+}
+h3{
+    font-family: 'Roboto Mono', monospace;
+    color:blue;
+    
+}
+.p1{
+    border-style:double;border-color:gray;border-width:4px;
+}
+img{
+    float: left;
+}
+.part1{
+    border-style: double;border-color: gray; background-color: darkgray;
+
+}
+.p2{
+    border-style: double;border-color: gray; background-color: darkgrey;
+}
+.k2{
+    border-style: double;border-color:gray;background-color:white;color:black;text-align: center;
+}
+
+
+
+
+

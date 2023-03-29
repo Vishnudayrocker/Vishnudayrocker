@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Roboto Mono', monospace;
+    color:black;
+    text-align: center;
+    font-style: italic;
+  }
+
+.k2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: black;
+    text-justify: auto;
+
+   }
+
+.p1{border-width: 10px;border-color: burlywood;
+
+}
+img{
+    width: 100%;
+}
+
+.k3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    color: black;
+    text-justify: auto;
+}
