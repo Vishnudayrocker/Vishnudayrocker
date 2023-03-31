@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+/*font-family: 'Montserrat', sans-serif;*/
+img{width: 100%;}
+
+.section1{
+    padding-top: 20px;
+}
+.part1 img{
+    border: solid antiquewhite 10px;
+    height: 120px;
+}
+
+.img1 img{
+    border: solid antiquewhite 10px;
+    height: 100%;
+}
+.part3 img{
+    border: solid antiquewhite 10px;
+    height: 120px;
+}
+.section2{
+    padding-top: 20px;
+}
+.last img{
+    border: solid antiquewhite 10px;
+    height: 150px;
+}
+.section3{
+    padding-top: 20px;
+}
+.p1 p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+
+}
+.head2, .p2, .part4 p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.cars{
+    padding: 0%;
+}
+.cars img{
+    height: 150px;
+    margin-bottom: 20px;
+}
+.head2 {
+    padding-top: 30px;
+}
