@@ -1,0 +1,46 @@
+
+.part1{
+
+    margin-top: 20px;
+}
+  
+.part2{
+    left: 20px;
+    margin-top: 25px;
+}
+.part3{
+    right:  130px;
+    margin-top:22px;
+}
+.part4{
+    left: -100px;
+    margin-top:22px;
+}
+.part5{
+    left: -220px;
+    margin-top:20px;
+    justify-content: center;
+}
+.part6{
+    left: -140px;
+    margin-top:22px;
+}
+.button{
+    background-color: orange;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  left: 20px;
+}
+
+
+
+    
+    
+    
